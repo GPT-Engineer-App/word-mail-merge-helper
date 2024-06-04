@@ -1,0 +1,1 @@
+{ MERGEFIELD YourFieldName \# "#,##0,00" }
